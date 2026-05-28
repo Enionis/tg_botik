@@ -1,0 +1,6 @@
+aiogram==3.15.0
+asyncpg==0.30.0
+python-dotenv==1.0.1
+APScheduler==3.10.4
+aiohttp-socks
+requests[socks]

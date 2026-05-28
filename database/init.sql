@@ -1,0 +1,3 @@
+CREATE USER botik WITH PASSWORD 'your_secure_password';
+CREATE DATABASE botik OWNER botik;
+GRANT ALL PRIVILEGES ON DATABASE botik TO botik;
